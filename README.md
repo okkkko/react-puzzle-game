@@ -1,4 +1,4 @@
-# React N-Puzzle
+# React N-Puzzle | [Demo](https://okkkko.github.io/react-puzzle-game/)
 
 A customizable N-puzzle game built with React and TypeScript.
 
