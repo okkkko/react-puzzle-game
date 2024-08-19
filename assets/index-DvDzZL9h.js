@@ -71,6 +71,10 @@ Error generating stack: `+o.message+`
     padding: 0;
   }
 
+  html, body, #root, .app {
+    height: 100%;
+  }
+
   body {
     background-color: var(--background-color);
   }
@@ -80,7 +84,6 @@ Error generating stack: `+o.message+`
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
     padding: 20px;
     margin: 0 auto;
   
