@@ -3,7 +3,7 @@
 A customizable N-puzzle game built with React and TypeScript.
 
 The goal is to arrange the tiles in ascending order, leaving the empty space in the bottom-right corner.
-To play, click on a tile in the same row or column as the empty space to move it, shifting all tiles in between.
+Click on a tile in the same row or column as the empty space to move it, shifting all tiles in between.
 Use the "Shuffle" button to randomize the tiles.
 
 ## Configuration
